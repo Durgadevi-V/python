@@ -1,5 +1,4 @@
 def remove_nums(int_list):
-  #list starts with 0 index
   position = 3 - 1 
   idx = 0
   len_list = (len(int_list))
